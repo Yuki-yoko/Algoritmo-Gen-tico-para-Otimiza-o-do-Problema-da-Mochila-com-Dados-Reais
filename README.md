@@ -5,8 +5,8 @@ A proposta consiste em selecionar automaticamente um subconjunto de itens que ma
 
 Os dados utilizados representam informações de vendas, onde:
 
-O valor (profit) corresponde ao faturamento gerado
-O peso (weight) representa a quantidade transportada
+- O valor (profit) corresponde ao faturamento gerado
+- O peso (weight) representa a quantidade transportada
 
 A solução foi desenvolvida utilizando técnicas de Computação Evolutiva, simulando o processo de seleção natural para explorar o espaço de soluções possíveis.
 
